@@ -1,0 +1,67 @@
+{
+  "campaign_name": "summer_2026_subscription_push",
+  "directives": [
+    {
+      "platform": "meta",
+      "hook": "Three origins. Three months. Zero commitment.",
+      "body_copy": "Ethiopian Yirgacheffe, Colombian La Esperanza, Guatemalan Huehuetenango. Each slow-steeped 18 hours. Discover your favorite single-origin.",
+      "cta": "Try the sampler",
+      "visual_concept": "Three-panel split screen showing each single-origin bottle against Cream backgrounds with origin names in Espresso typography. Final frame shows all three bottles together with Copper CTA overlay.",
+      "duration_seconds": 15,
+      "suggested_footage_ids": [
+        "nb-ad-003"
+      ],
+      "reasoning": "Multi-origin carousel format worked before. Removes subscription pressure by leading with sampler concept. Stays product-focused, highlights 18-hour process, uses specific origin names."
+    },
+    {
+      "platform": "tiktok",
+      "hook": "POV: you're trying three single-origins in three months",
+      "body_copy": "Ethiopian Yirgacheffe. Colombian La Esperanza. Guatemalan Huehuetenango. All slow-steeped 18 hours. Find your favorite without subscribing.",
+      "cta": "Start the sampler",
+      "visual_concept": "Handheld POV shot: three bottles lined up on kitchen counter, natural morning light. Hand enters frame, picks up first bottle, pours into glass. Quick cut to tasting notes text overlay. Captions on throughout.",
+      "duration_seconds": 12,
+      "voiceover_script": "Three months, three single-origins, zero pressure. Ethiopian Yirgacheffe with bergamot notes. Colombian La Esperanza. Guatemalan Huehuetenango. Slow-steeped 18 hours each. Try the sampler.",
+      "suggested_footage_ids": [
+        "nb-ad-002"
+      ],
+      "reasoning": "POV hook mirrors top TikTok performer. Handheld aesthetic feels native. Specific origin names and tasting notes build credibility. No subscription pressure in first seconds."
+    },
+    {
+      "platform": "youtube_shorts",
+      "hook": "Single-origin cold brew, no subscription required.",
+      "body_copy": "Three bottles. Three months. Ethiopian, Colombian, Guatemalan. Each slow-steeped 18 hours. Discover your favorite before you commit.",
+      "cta": "Try the 3-month sampler",
+      "visual_concept": "Founder Maya voiceover over close-up brewing footage: coffee grounds, slow-steep tanks, bottling line. Cut to three bottles on wooden table with origin cards. Final frame: hand reaching for bottle with Copper CTA.",
+      "duration_seconds": 20,
+      "voiceover_script": "We slow-steep every batch for 18 hours. Ethiopian Yirgacheffe with bergamot notes. Colombian La Esperanza. Guatemalan Huehuetenango. The 3-month sampler lets you try all three single-origins before you subscribe. Find your favorite first.",
+      "suggested_footage_ids": [
+        "nb-ad-001"
+      ],
+      "reasoning": "Founder voiceover worked well in top Meta performer. Process storytelling builds trust. Longer format allows full origin story. Removes subscription friction by positioning sampler as discovery tool."
+    }
+  ],
+  "shared_messaging": {
+    "primary_value_prop": "The 3-month sampler lets you discover your favorite single-origin cold brew without committing to a subscription.",
+    "proof_points": [
+      "Three distinct single-origins: Ethiopian Yirgacheffe, Colombian La Esperanza, Guatemalan Huehuetenango",
+      "Every batch slow-steeped for 18 hours",
+      "No subscription required \u2014 try before you commit",
+      "Shipped within 72 hours of brewing"
+    ],
+    "tone_summary": "Confident and specific, leading with product quality and origin stories, removing subscription pressure by framing the sampler as a discovery tool."
+  },
+  "retrieved_inspiration": [
+    {
+      "ad_id": "nb-ad-003",
+      "relevance": "Multi-origin carousel format for Meta, subscription positioning, learned to remove early subscription pressure"
+    },
+    {
+      "ad_id": "nb-ad-002",
+      "relevance": "POV-style TikTok hook, handheld pour aesthetic, specific tasting notes, native feel"
+    },
+    {
+      "ad_id": "nb-ad-001",
+      "relevance": "Founder voiceover, process storytelling, brewing close-ups, freshness narrative for YouTube Shorts"
+    }
+  ]
+}

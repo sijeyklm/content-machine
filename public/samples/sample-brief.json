@@ -1,0 +1,27 @@
+{
+  "campaign_name": "summer_2026_subscription_push",
+  "objective": "Drive subscription signups for the new 3-month sampler bundle launching June 1.",
+  "target_audience": "Considered Consumers (28-42, urban, premium grocery shoppers) who have visited the site but not subscribed in the last 90 days.",
+  "key_message": "The 3-month sampler is the easiest way to discover your favorite single-origin without committing to a full subscription. New origins each month: Ethiopian Yirgacheffe, Colombian La Esperanza, Guatemalan Huehuetenango.",
+  "must_include": [
+    "Mention 'single-origin' explicitly",
+    "Reference the 18-hour slow-steep process",
+    "Lead with product, not lifestyle",
+    "Cream and Espresso primary colors, Copper for CTA"
+  ],
+  "must_avoid": [
+    "Hustle culture or productivity framing",
+    "Generic 'morning routine' language",
+    "Subscription hard-sell in the first 3 seconds",
+    "Banned words from brand book"
+  ],
+  "channels": ["meta", "tiktok", "youtube_shorts"],
+  "constraints": {
+    "video_max_seconds": 30,
+    "tone": "confident, specific, warm",
+    "cta": "Try the 3-month sampler"
+  },
+  "budget_signal": "high_priority_quarter",
+  "submitted_by": "Maya Chen, Founder",
+  "submitted_at": "2026-05-08"
+}

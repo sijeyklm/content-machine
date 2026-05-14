@@ -1,0 +1,62 @@
+{
+  "brand": {
+    "name": "Northbean",
+    "tagline": "Premium small-batch cold brew for people who take their mornings seriously.",
+    "mission": "Make exceptional cold brew accessible to people who care about quality but don't have time to make it themselves."
+  },
+  "colors": {
+    "primary": "#2B1810",
+    "secondary": "#F5EFE0",
+    "accent": "#B8714D",
+    "background": "#F5EFE0",
+    "text": "#2B1810"
+  },
+  "typography": {
+    "heading": "Söhne Breit (fallback: Inter)",
+    "body": "Söhne (fallback: Inter)",
+    "display": "Editorial New"
+  },
+  "voice": {
+    "attributes": ["Confident, not arrogant", "Warm, not casual", "Specific, not vague", "Curious, not preachy"],
+    "sample_phrases": [
+      "Slow-steeped for 18 hours.",
+      "Single-origin Ethiopian Yirgacheffe with notes of bergamot and dark chocolate.",
+      "Brewed Tuesday, on your doorstep Friday.",
+      "The best coffee shop is the one in your kitchen.",
+      "Ritual, not routine."
+    ],
+    "avoid_phrases": [
+      "World's best coffee",
+      "Game-changer",
+      "Wake up and seize the day!",
+      "Coffee that hits different",
+      "Your daily fuel"
+    ],
+    "banned_words": [
+      "disrupt", "revolutionary", "game-changer", "fuel", "hits different",
+      "slay", "vibe", "lit", "mind-blowing", "life-changing", "insane", "crazy good"
+    ]
+  },
+  "channels": {
+    "meta": {
+      "notes": "Caption-first storytelling, assume sound off. First 3 seconds must show product or brewing process. Cream and Espresso lead, Copper for CTA only.",
+      "preferred_aspect_ratios": ["1:1", "4:5"],
+      "max_duration_seconds": 60
+    },
+    "tiktok_reels": {
+      "notes": "Native-feeling content (handheld, real, unpolished). Show the brewing or pour, not the lifestyle. On-screen captions with our typography.",
+      "preferred_aspect_ratios": ["9:16"],
+      "max_duration_seconds": 30
+    },
+    "google_display": {
+      "notes": "Headline + product shot + CTA, no clutter. Cream background with Espresso headline, Copper CTA.",
+      "preferred_aspect_ratios": ["1.91:1"],
+      "max_duration_seconds": 0
+    },
+    "youtube_shorts": {
+      "notes": "Process-driven storytelling. Voiceover-led, music secondary.",
+      "preferred_aspect_ratios": ["9:16"],
+      "max_duration_seconds": 60
+    }
+  }
+}

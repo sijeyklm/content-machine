@@ -1,0 +1,107 @@
+[
+  {
+    "id": "nb-ad-001",
+    "platform": "meta",
+    "format": "feed_video",
+    "aspect_ratio": "4:5",
+    "campaign": "spring_2025_launch",
+    "launched": "2025-03-12",
+    "hook": "Brewed Tuesday. On your doorstep Friday.",
+    "body_copy": "Single-origin Ethiopian Yirgacheffe, slow-steeped for 18 hours. The freshest cold brew you'll ever drink — because we ship it to you within 72 hours of brewing.",
+    "cta": "Try the first bottle",
+    "concept": "Process-led storytelling. Close-ups of the slow-steep brewing process intercut with packaging and shipping shots. Voiceover from founder Maya.",
+    "performance": {
+      "ctr_pct": 2.84,
+      "cpa_usd": 18.40,
+      "roas": 3.7,
+      "spend_usd": 12500,
+      "audience": "premium grocery shoppers, 28-42, urban"
+    },
+    "performance_tier": "top_performer",
+    "retrieval_text": "Process storytelling. Founder voiceover. Brewing close-ups. Targets considered consumers who care about ingredient quality. Strong on freshness narrative."
+  },
+  {
+    "id": "nb-ad-002",
+    "platform": "tiktok",
+    "format": "vertical_video",
+    "aspect_ratio": "9:16",
+    "campaign": "spring_2025_launch",
+    "launched": "2025-03-15",
+    "hook": "POV: you finally found a cold brew worth the price",
+    "body_copy": "18-hour slow steep. Notes of bergamot and dark chocolate. Try it once, you'll know.",
+    "cta": "Link in bio — first bottle 30% off",
+    "concept": "Native-feeling handheld pour shot, captions on. Clean countertop aesthetic, natural light.",
+    "performance": {
+      "ctr_pct": 4.12,
+      "cpa_usd": 14.20,
+      "roas": 4.8,
+      "spend_usd": 8000,
+      "audience": "specialty food enthusiasts, 24-35, lifestyle interest"
+    },
+    "performance_tier": "top_performer",
+    "retrieval_text": "POV-style hook. Handheld pour. Tasting notes specificity. Works because it sounds like a real person, not an ad. Top TikTok performer."
+  },
+  {
+    "id": "nb-ad-003",
+    "platform": "meta",
+    "format": "carousel_static",
+    "aspect_ratio": "1:1",
+    "campaign": "winter_2024_holiday",
+    "launched": "2024-12-02",
+    "hook": "The morning ritual deserves better than the same.",
+    "body_copy": "Three single-origin cold brews. Three distinct mornings. Subscribe and save 20%.",
+    "cta": "Build your subscription",
+    "concept": "Three-card carousel showing each origin (Ethiopia, Colombia, Guatemala) with tasting notes. Cream backgrounds, Espresso typography.",
+    "performance": {
+      "ctr_pct": 1.82,
+      "cpa_usd": 24.60,
+      "roas": 2.4,
+      "spend_usd": 6500,
+      "audience": "existing customers + lookalikes"
+    },
+    "performance_tier": "average",
+    "retrieval_text": "Multi-origin storytelling. Subscription push. Carousel format. Underperformed because subscription ask came too early in awareness funnel."
+  },
+  {
+    "id": "nb-ad-004",
+    "platform": "youtube_shorts",
+    "format": "vertical_video",
+    "aspect_ratio": "9:16",
+    "campaign": "summer_2024",
+    "launched": "2024-07-08",
+    "hook": "Stop drinking bad coffee.",
+    "body_copy": "If your morning coffee is just caffeine, you're missing the point. Northbean is the cold brew you actually look forward to.",
+    "cta": "Try one bottle",
+    "concept": "Direct talking-head from founder Maya, 30 seconds. No music, just her voice and product close-ups.",
+    "performance": {
+      "ctr_pct": 0.94,
+      "cpa_usd": 38.90,
+      "roas": 1.6,
+      "spend_usd": 4200,
+      "audience": "broad reach, 25-44, US"
+    },
+    "performance_tier": "underperformer",
+    "retrieval_text": "Direct hook lacked specificity. Talking-head format without process visuals felt generic. Hook was too aggressive for our brand voice."
+  },
+  {
+    "id": "nb-ad-005",
+    "platform": "meta",
+    "format": "feed_video",
+    "aspect_ratio": "1:1",
+    "campaign": "fall_2024",
+    "launched": "2024-10-14",
+    "hook": "The bean travels 7,000 miles. Then it sits with us for 18 hours.",
+    "body_copy": "From a small farm in Yirgacheffe to your doorstep — slow-steeped, never rushed, never compromised.",
+    "cta": "Taste the difference",
+    "concept": "Origin-to-cup journey. Footage of farm in Ethiopia, transit, brewing facility, final pour. Editorial pacing.",
+    "performance": {
+      "ctr_pct": 3.21,
+      "cpa_usd": 16.80,
+      "roas": 4.1,
+      "spend_usd": 9800,
+      "audience": "premium grocery + specialty food"
+    },
+    "performance_tier": "top_performer",
+    "retrieval_text": "Origin storytelling. Cinematic pacing. Specificity of '7,000 miles' and '18 hours' drove engagement. Top performer for premium audience segments."
+  }
+]

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 480" font-family="Inter, system-ui, sans-serif">
+  <!-- Background -->
+  <rect width="1080" height="480" fill="#F5EFE0"/>
+
+  <!-- Input label -->
+  <text x="120" y="50" font-size="14" font-weight="600" fill="#5C453B" text-anchor="middle">Brand book PDF</text>
+  <line x1="120" y1="62" x2="120" y2="138" stroke="#B8714D" stroke-width="2"/>
+  <polygon points="115,134 125,134 120,144" fill="#B8714D"/>
+
+  <!-- Stage 1: INTAKE -->
+  <rect x="40" y="150" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#2B1810" stroke-width="2"/>
+  <text x="120" y="190" font-size="18" font-weight="700" fill="#2B1810" text-anchor="middle" letter-spacing="0.04em">INTAKE</text>
+  <line x1="60" y1="205" x2="180" y2="205" stroke="#2B1810" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="120" y="228" font-size="13" font-weight="500" fill="#2B1810" text-anchor="middle">unpdf</text>
+  <text x="120" y="250" font-size="11" fill="#5C453B" text-anchor="middle">Parse PDF</text>
+  <text x="120" y="290" font-size="12" font-weight="600" fill="#B8714D" text-anchor="middle">&lt; 1s</text>
+
+  <!-- Arrow 1 -->
+  <line x1="200" y1="210" x2="260" y2="210" stroke="#B8714D" stroke-width="2"/>
+  <polygon points="256,205 256,215 266,210" fill="#B8714D"/>
+
+  <!-- Stage 2: RULES -->
+  <rect x="260" y="150" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#2B1810" stroke-width="2"/>
+  <text x="340" y="190" font-size="18" font-weight="700" fill="#2B1810" text-anchor="middle" letter-spacing="0.04em">RULES</text>
+  <line x1="280" y1="205" x2="400" y2="205" stroke="#2B1810" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="340" y="228" font-size="13" font-weight="500" fill="#2B1810" text-anchor="middle">Claude</text>
+  <text x="340" y="250" font-size="11" fill="#5C453B" text-anchor="middle">Extract voice + visuals</text>
+  <text x="340" y="290" font-size="12" font-weight="600" fill="#B8714D" text-anchor="middle">5 – 10s</text>
+
+  <!-- Arrow 2 -->
+  <line x1="420" y1="210" x2="480" y2="210" stroke="#B8714D" stroke-width="2"/>
+  <polygon points="476,205 476,215 486,210" fill="#B8714D"/>
+
+  <!-- Stage 3: RETRIEVAL -->
+  <rect x="480" y="150" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#2B1810" stroke-width="2"/>
+  <text x="560" y="190" font-size="18" font-weight="700" fill="#2B1810" text-anchor="middle" letter-spacing="0.04em">RETRIEVAL</text>
+  <line x1="500" y1="205" x2="620" y2="205" stroke="#2B1810" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="560" y="228" font-size="13" font-weight="500" fill="#2B1810" text-anchor="middle">Voyage AI</text>
+  <text x="560" y="250" font-size="11" fill="#5C453B" text-anchor="middle">Find past winners</text>
+  <text x="560" y="290" font-size="12" font-weight="600" fill="#B8714D" text-anchor="middle">1 – 3s</text>
+
+  <!-- Arrow 3 -->
+  <line x1="640" y1="210" x2="700" y2="210" stroke="#B8714D" stroke-width="2"/>
+  <polygon points="696,205 696,215 706,210" fill="#B8714D"/>
+
+  <!-- Stage 4: DIRECTIVES -->
+  <rect x="700" y="150" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#2B1810" stroke-width="2"/>
+  <text x="780" y="190" font-size="18" font-weight="700" fill="#2B1810" text-anchor="middle" letter-spacing="0.04em">DIRECTIVES</text>
+  <line x1="720" y1="205" x2="840" y2="205" stroke="#2B1810" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="780" y="228" font-size="13" font-weight="500" fill="#2B1810" text-anchor="middle">Claude</text>
+  <text x="780" y="250" font-size="11" fill="#5C453B" text-anchor="middle">Generate per-channel</text>
+  <text x="780" y="290" font-size="12" font-weight="600" fill="#B8714D" text-anchor="middle">30 – 60s</text>
+
+  <!-- Arrow 4 -->
+  <line x1="860" y1="210" x2="920" y2="210" stroke="#B8714D" stroke-width="2"/>
+  <polygon points="916,205 916,215 926,210" fill="#B8714D"/>
+
+  <!-- Stage 5: RENDER -->
+  <rect x="920" y="150" width="120" height="120" rx="12" fill="#FFFFFF" stroke="#2B1810" stroke-width="2"/>
+  <text x="980" y="190" font-size="18" font-weight="700" fill="#2B1810" text-anchor="middle" letter-spacing="0.04em">RENDER</text>
+  <line x1="940" y1="205" x2="1020" y2="205" stroke="#2B1810" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="980" y="226" font-size="12" font-weight="500" fill="#2B1810" text-anchor="middle">Remotion</text>
+  <text x="980" y="244" font-size="12" font-weight="500" fill="#2B1810" text-anchor="middle">+ Sharp</text>
+  <text x="980" y="290" font-size="12" font-weight="600" fill="#B8714D" text-anchor="middle">9 – 15s</text>
+
+  <!-- Output arrow down -->
+  <line x1="980" y1="300" x2="980" y2="376" stroke="#B8714D" stroke-width="2"/>
+  <polygon points="975,372 985,372 980,382" fill="#B8714D"/>
+
+  <!-- Output label -->
+  <text x="980" y="410" font-size="14" font-weight="700" fill="#2B1810" text-anchor="middle">7 channel-ready assets</text>
+  <text x="980" y="432" font-size="12" fill="#5C453B" text-anchor="middle">3 video + 4 static</text>
+
+  <!-- Footer label -->
+  <text x="540" y="445" font-size="11" fill="#5C453B" text-anchor="middle" font-style="italic">Brand brain pipeline (intake → directives) streams status via SSE. Render is on-demand from cached directives.</text>
+</svg>
