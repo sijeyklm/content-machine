@@ -1,5 +1,8 @@
 # Content Machine
 
+
+**Live demo:** [content-machine-liart.vercel.app](https://content-machine-liart.vercel.app)  
+**Demo video:** [Watch the 90-second walkthrough](./docs/demo/demo.mp4)
 > Turn brand books into channel-ready ad kits. An AI orchestration layer that reads brand guidelines, studies past winning ads, and produces video + static creative across every paid social channel in under 90 seconds.
 
 ![Pipeline running with five stages: intake, rules, retrieval, directives, render](./docs/images/pipeline-running.png)
